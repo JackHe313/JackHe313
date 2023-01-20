@@ -1,4 +1,4 @@
-:wave: Hi! My name is jack, an student currently in studing UCLA 
+:wave: Hi! My name is jack, an UCLA student majors in Computer Science and Engineering
 
 my email :email: is jackhe313@gmail.com, plz feel free to contact me  
 
