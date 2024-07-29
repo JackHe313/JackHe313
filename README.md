@@ -1,7 +1,7 @@
 :wave: 
-Hi, This is Jack He, a junior-year undergraduate student majoring in Computer Science and Applied Mathematics at UCLA.
+Hi, This is Jack He, a junior-year undergraduate student majoring in `Computer Science` and `Applied Mathematics` at `UCLA`.
 
-I am currently conducting research in Prof. Bolei Zhou’s lab and Prof. Cho-Jui Hsieh’s lab, with my interests spanning across Embodied AI, Computer Vision, Generative Models, and General Machine Learning.
+I am currently conducting research in `Prof. Bolei Zhou’s lab` and `Prof. Cho-Jui Hsieh’s lab`, with my interests spanning across `Embodied AI, Computer Vision, Generative Models, and General Machine Learning`.
 
 My email :email: is jackhe313@ucla.com, plz feel free to contact me  
 
