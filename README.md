@@ -9,6 +9,6 @@ NICE TO MEET YOU :smile:
 
 My personal [website](https://jackhe313.github.io/)
 
-<img src=https://user-images.githubusercontent.com/94516810/202824831-81bcfbd2-ce20-4537-8fc6-338dae5944c3.jpeg style="width:200px;"/>
+<img src=https://github.com/JackHe313/JackHe313/blob/main/IMG_1066.JPG style="width:200px;"/>
 
 
