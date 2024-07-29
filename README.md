@@ -1,6 +1,9 @@
-:wave: Hi! My name is jack, an UCLA student majors in Computer Science
+:wave: 
+Hi, This is Jack He, a junior-year undergraduate student majoring in Computer Science and Applied Mathematics at UCLA.
 
-my email :email: is jackhe313@gmail.com, plz feel free to contact me  
+I am currently conducting research in Prof. Bolei Zhou’s lab and Prof. Cho-Jui Hsieh’s lab, with my interests spanning across Embodied AI, Computer Vision, Generative Models, and General Machine Learning.
+
+My email :email: is jackhe313@ucla.com, plz feel free to contact me  
 
 NICE TO MEET YOU :smile:
 
